@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: mjoffily/automatingawswithpython
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: tbc
   owner: mjoffilyuser
