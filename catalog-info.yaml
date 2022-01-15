@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: automatingawswithpython
+  annotations:
+    github.com/project-slug: mjoffily/automatingawswithpython
+spec:
+  type: other
+  lifecycle: unknown
+  owner: mjoffilyuser
